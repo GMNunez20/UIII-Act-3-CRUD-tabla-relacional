@@ -8,7 +8,7 @@ Empresa: Lote de Carros. Tablas: Vehículos, Ventas, Vehículos Vendidos.
 ![](https://github.com/GMNunez20/UIII-Act-3-CRUD-tabla-relacional/blob/main/14.png)
 
 ## Vehículos
-![]()
+![](https://github.com/GMNunez20/UIII-Act-3-CRUD-tabla-relacional/blob/main/15.png)
 
 ## Vender
 ![]()
